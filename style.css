@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+:root{
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    
+}
+ #pagina{
+  box-sizing: border-box;
+  width: 1440px;
+  padding: 80px;
+  margin: auto;
+ }
+#conheçabusan{
+ background: url(assent/image.jpg) no-repeat
+}
