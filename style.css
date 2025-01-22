@@ -10,7 +10,13 @@
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
-    
+    background-image: 1120px;    
+}
+span{
+  color: #E95E10;
+}
+body img{
+  background-size: 100%;
 }
  #pagina{
   box-sizing: border-box;
@@ -18,11 +24,27 @@
   padding: 80px;
   margin: auto;
  }
-#conheçabusan{
+
+ 
+
+ h1{
+  font-size: 36px;
+ }
+
+#conheçabusan  {
  background: url(assent/image.jpg) no-repeat 
  
 }
 
+.busan{
+  font-style: italic;
+  font-size: 16px;
+}
+
 footer{
   color: black;
+  padding: 48px;
+  text-align: center;
+  vertical-align: middle;
+  
 }
