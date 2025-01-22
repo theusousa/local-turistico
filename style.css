@@ -19,5 +19,10 @@
   margin: auto;
  }
 #conheçabusan{
- background: url(assent/image.jpg) no-repeat
+ background: url(assent/image.jpg) no-repeat 
+ 
+}
+
+footer{
+  color: black;
 }
